@@ -39,11 +39,13 @@ _Background to usage. Skills required. Brief description about differences betwe
 ![](https://BaDoomUK.github.io/TouchTub/Photos/20.jpg "6. Apply the tabbed circle in a similar manner to the inside surface of the tub.")
 
 ### Stage 2 - Securing the other components
-1. Insert the 3.5mm audio cable into the Wowee speaker (or equivalant) 
-2. Add four velcro dots (soft loop side) to the base of the Wowee speaker. Attach the (rough hook side) to these dots and secure the speaker to centre of the tub lid, ensuring that there is also enough room for the audio cable to sit inside the lid. 
-3. Remove the audio cable.
-4. Apply velcro pads to the battery holder and secure to the lid on the right hand side of the speaker.
-5. Apply velcro pads to the Touch Board in the positions shown. 
+1. Insert the 3.5mm audio cable into the Wowee speaker (or equivalent) - this is to make sure you position your audio cable fits along with the speaker. Take this opportunity to plan where your speaker, battery and touchboard will go. Make sure you leave enough room to connect a crocodile clip to the electrode side of the Touch Board (on the right side in the picture below), and that you can access any controls on your chosen speaker. 
+![](https://BaDoomUK.github.io/TouchTub/Photos/22.jpg "1. Plan your layout.")
+2. Add some velcro dots (soft loop side) to the base of your speaker. Attach the (rough hook side) to these dots and secure the speaker to centre of the tub lid, ensuring that there is also enough room for the audio cable to sit inside the lid. 
+![](https://BaDoomUK.github.io/TouchTub/Photos/24.jpg "2. Attach your speaker to the lid.")
+3. Apply velcro pads to the battery holder and secure to the lid.
+![](https://BaDoomUK.github.io/TouchTub/Photos/24.jpg "1. Attach your speaker to the lid.")
+4. Apply velcro pads to the Touch Board in the positions shown.
 
 
 
