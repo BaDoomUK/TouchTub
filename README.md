@@ -7,6 +7,7 @@ _Background to usage. Skills required. Brief description about differences betwe
 ## Construction guide
 
 ### Materials required
+![](https://BaDoomUK.github.io/TouchTub/Photos/01.jpg "Everything you need")
 1. Bare Conductive Touch Board
 2. Plastic food container
 3. Vibrating speaker (e.g Wowee Slim)
