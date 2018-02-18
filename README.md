@@ -66,5 +66,3 @@ Once you have successfully followed the steps in the Bare Conductive tutorial, u
 If you would like to change the mp3 tracks, follow the instructions lifted here. 
 https://www.bareconductive.com/make/changing-the-mp3s-on-the-micro-sd-card/
 
-
-
