@@ -46,8 +46,10 @@ _Background to usage. Skills required. Brief description about differences betwe
 3. Apply velcro pads to the battery holder and secure to the lid.
 ![](https://BaDoomUK.github.io/TouchTub/Photos/24.jpg "1. Attach your speaker to the lid.")
 4. Apply velcro pads to the Touch Board in the positions shown.
-
-
+5. Apply velcro pads to the Touch Board in the positions shown. _(This specific positioning is to allow for future soldering)_
+6. The LED ring will be secured above the Wowee speaker. Using double-sided foam tape, build two towers of approximately 15mm.
+7. Attach the foam tape towers to the battery pack and speaker in the positions shown. 
+8. Secure the LED ring to the top of the two towers, positioned as centrally as possible. 
 
 
 ### _Later stuff_
