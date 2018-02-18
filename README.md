@@ -43,10 +43,11 @@ _Background to usage. Skills required. Brief description about differences betwe
 2. Add four velcro dots (soft loop side) to the base of the Wowee speaker. Attach the (rough hook side) to these dots and secure the speaker to centre of the tub lid, ensuring that there is also enough room for the audio cable to sit inside the lid. 
 3. Remove the audio cable.
 4. Apply velcro pads to the battery holder and secure to the lid on the right hand side of the speaker.
-5. Apply velcro pads to the Touch Board in the positions shown. 
-
-
+5. Apply velcro pads to the Touch Board in the positions shown. _(This specific positioning is to allow for future soldering)_
+6. The LED ring will be secured above the Wowee speaker. Using double-sided foam tape, build two towers of approximately 15mm.
+7. Attach the foam tape towers to the battery pack and speaker in the positions shown. 
+8. Secure the LED ring to the top of the two towers, positioned as centrally as possible. 
 
 
 ### _Later stuff_
-1. The LED ring will be secured above the Wowee speaker. Using double-sided foam tape, build two towers 
+ 
