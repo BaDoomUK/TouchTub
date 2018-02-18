@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# TouchTub tutorial
 
-You can use the [editor on GitHub](https://github.com/BaDoomUK/TouchTub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Background to usage. Skills required. Brief description about differences between versions_
 
-```markdown
-Syntax highlighted code block
+## Construction guide
 
-# Header 1
-## Header 2
-### Header 3
+### Materials required
+1. Bare Conductive Touch Board
+2. Plastic food container
+3. Vibrating speaker (e.g Wowee)
 
-- Bulleted
-- List
+### 1.Making the tub touch sensitive
 
-1. Numbered
-2. List
+1. Orientate the tupperware tub so that it is lid-down. 
+2. Measure the diameter of the top surface of the selected tupperware tub. 
+3. Using a circle cutter (optional) or a compass and scissors, cut a copper circle of diameter 4mm less than the total diameter.
+4. Create a second copper circle with an additional rectangular copper tab.  Use the first circle you created to create a template for the second. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BaDoomUK/TouchTub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
