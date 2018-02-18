@@ -78,6 +78,16 @@ Your tub is now physically ready!
 
 You can test your tub at this point. Switch on your speaker and if your battery pack has a switch, turn that on too. When you finally switch on the Touch Board, a green LED should light, and when you touch the electrodes along the side of the Touch Board you should hear a tutorial playing - touch to start, touch to stop. Your touch surface should also now activate the electrode you attached it to.
 
-### Stage 3 - Uploading the code
+### Stage 3 - Prepare the Touch Board
+
+In order to get the tub to behave in the intended manner, you will need to upload some instructions, or code to the Touch Board. 
+To do this, you will need to install some additional sofware.
+Follow the steps in the following tutorial 
+https://www.bareconductive.com/make/setting-up-arduino-with-your-touch-board/
+Once you have successfully followed the steps in the Bare Conductive tutorial, upload the following sketch (XXXXXXX).
+
+If you would like to change the mp3 tracks, follow the instructions lifted here. 
+https://www.bareconductive.com/make/changing-the-mp3s-on-the-micro-sd-card/
+
 
 
