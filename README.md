@@ -21,4 +21,15 @@ _Background to usage. Skills required. Brief description about differences betwe
 5. Apply the copper circle (without the tab) to the tupperware tub. Peel back a small section of the backing (as shown). Position the circle centrally on the top of the tub. Stick the peeled away section to the tub, and smooth out.
 6. Apply the tabbed circle in a similar manner to the inside surface of the tub. 
 
-### Stage 2 - 
+### Stage 2 - Securing the other components
+1. Insert the 3.5mm audio cable into the Wowee speaker (or equivalant) 
+2. Add four velcro dots (soft loop side) to the base of the Wowee speaker. Attach the (rough hook side) to these dots and secure the speaker to centre of the tub lid, ensuring that there is also enough room for the audio cable to sit inside the lid. 
+3. Remove the audio cable.
+4. Apply velcro pads to the battery holder and secure to the lid on the right hand side of the speaker.
+5. Apply velcro pads to the Touch Board in the positions shown. 
+
+
+
+
+### _Later stuff_
+1. The LED ring will be secured above the Wowee speaker. Using double-sided foam tape, build two towers 
