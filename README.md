@@ -44,16 +44,23 @@ _Background to usage. Skills required. Brief description about differences betwe
 2. Add some velcro dots (soft loop side) to the base of your speaker. Attach the (rough hook side) to these dots and secure the speaker to centre of the tub lid, ensuring that there is also enough room for the audio cable to sit inside the lid. 
 ![](https://BaDoomUK.github.io/TouchTub/Photos/24.jpg "2. Attach your speaker to the lid.")
 3. Apply velcro pads to the battery holder and secure to the lid.
-![](https://BaDoomUK.github.io/TouchTub/Photos/24.jpg "1. Attach your speaker to the lid.")
-4. Apply velcro pads to the Touch Board in the positions shown.
-5. Apply velcro pads to the Touch Board in the positions shown. _(This specific positioning is to allow for future soldering)_
-6. Connect the battery to the Touch Board.
-7. Connect the speaker cable to the speaker.
-8. You may wish to stick down the excess cable.
-9. Attach the crocodile clip to one of the electrode.
-10. Connect the other clip to the copper tab on the inside of the tub. 
+![](https://BaDoomUK.github.io/TouchTub/Photos/23.jpg "3. Attach your battery holder to the lid.")
+4. Apply velcro pads to the Touch Board in the positions shown (These positions have been chosen to allow for future soldering) and secure the Touch Board in position (we stuck ours to the speaker). 
+![](https://BaDoomUK.github.io/TouchTub/Photos/25.jpg "4. Attach your Touch Board")
+![](https://BaDoomUK.github.io/TouchTub/Photos/26.jpg "4. Attach your Touch Board")
+5. Connect the battery pack to the Touch Board.
+![](https://BaDoomUK.github.io/TouchTub/Photos/28.jpg "5. Connect the battery pack to the Touch Board.")
+6. Connect the speaker cable to the speaker.
+![](https://BaDoomUK.github.io/TouchTub/Photos/29.jpg "6. Connect the speaker cable to the speaker.")
+7. You may wish to stick down the excess cable.
+![](https://BaDoomUK.github.io/TouchTub/Photos/30.jpg "7. You may wish to stick down the excess cable.")
+8. Attach the crocodile clip to one of the electrodes on the Touch Board, and connect the other clip to the copper tab on the inside of the tub. 
+![](https://BaDoomUK.github.io/TouchTub/Photos/32.jpg "8. Connect the touch board and touch surface")
 
-Your tub is now physically ready, but we need to upload the code. 
+Your tub is now physically ready!
+![](https://BaDoomUK.github.io/TouchTub/Photos/33.jpg "All set!")
+
+You can test your tub at this point. Switch on your speaker and if your battery pack has a switch, turn that on too. When you finally switch on the Touch Board, a green LED should light, and when you touch the electrodes along the side of the Touch Board you should hear a tutorial playing - touch to start, touch to stop. Your touch surface should also now activate the electrode you attached it to.
 
 ### Stage 3 - Uploading the code
 
