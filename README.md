@@ -47,10 +47,22 @@ _Background to usage. Skills required. Brief description about differences betwe
 ![](https://BaDoomUK.github.io/TouchTub/Photos/24.jpg "1. Attach your speaker to the lid.")
 4. Apply velcro pads to the Touch Board in the positions shown.
 5. Apply velcro pads to the Touch Board in the positions shown. _(This specific positioning is to allow for future soldering)_
-6. The LED ring will be secured above the Wowee speaker. Using double-sided foam tape, build two towers of approximately 15mm.
-7. Attach the foam tape towers to the battery pack and speaker in the positions shown. 
-8. Secure the LED ring to the top of the two towers, positioned as centrally as possible. 
+6. Connect the battery to the Touch Board.
+7. Connect the speaker cable to the speaker.
+8. You may wish to stick down the excess cable.
+9. Attach the crocodile clip to one of the electrode.
+10. Connect the other clip to the copper tab on the inside of the tub. 
 
+Your tub is now physically ready, but we need to upload the code. 
 
-### _Later stuff_
- 
+### Stage 3 - Prepare the Touch Board
+
+In order to get the tub to behave in the intended manner, you will need to upload some instructions, or code to the Touch Board. 
+To do this, you will need to install some additional sofware.
+Follow the steps in the following tutorial 
+https://www.bareconductive.com/make/setting-up-arduino-with-your-touch-board/
+Once you have successfully followed the steps in the Bare Conductive tutorial, upload the following sketch (XXXXXXX).
+
+If you would like to change the mp3 tracks, follow the instructions lifted here. 
+https://www.bareconductive.com/make/changing-the-mp3s-on-the-micro-sd-card/
+
